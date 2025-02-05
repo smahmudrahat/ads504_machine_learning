@@ -20,9 +20,8 @@ Refer to the repository structure for details on dataset, models, and scripts.
 
 ## 🔧 Installation
 ```bash
-git clone https://github.com/yourusername/Image-Recognition-AliExpress.git
+git clone https://github.com/smahmudrahat/ads504_machine_learning.git
 cd Image-Recognition-AliExpress
-pip install -r requirements.txt
 ```
 
 ## 📊 Results
