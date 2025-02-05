@@ -1,8 +1,5 @@
 # ads504_machine_learning
 
-Here is a structured GitHub repository setup for your project **"Image Recognition for AliExpress Price Prediction"**:
-
----
 
 ### **📂 Image-Recognition-AliExpress**
 A GitHub repository for the project on image classification and price prediction using deep learning models trained on Fashion-MNIST and AliExpress datasets._
